@@ -1,3 +1,3 @@
 #Express App Crash Course
-Created by Brad Traversy here:
+Created by Brad Traversy here:<br>
 https://www.youtube.com/watch?v=L72fhGm1tfE&feature=youtu.be
