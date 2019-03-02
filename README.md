@@ -1,2 +1,2 @@
-**Express.js Development Course**<br>
-With basic API and Handlebars middleware.<br>
+**Express.js App**<br>
+With basic API delivered via Handlebars middleware.<br>
